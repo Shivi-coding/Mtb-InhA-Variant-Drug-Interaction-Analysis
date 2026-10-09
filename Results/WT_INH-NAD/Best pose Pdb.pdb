@@ -1,0 +1,16 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM      2  H3          0      -0.794 -24.152  18.764  1.00  0.00      Ison H  
+TER       3              0 
+HETATM    1  N3          0      -0.728 -25.036  18.260  1.00  0.00      Ison N  
+HETATM    3  C5          0      -0.546 -27.459  16.876  1.00  0.00      Ison C  
+HETATM    4  C6          0      -1.185 -27.406  18.110  1.00  0.00      Ison C  
+HETATM    5  C7          0       0.001 -26.301  16.333  1.00  0.00      Ison C  
+HETATM    6  C9          0      -1.248 -26.181  18.756  1.00  0.00      Ison C  
+HETATM    7  C10         0      -0.116 -25.127  17.058  1.00  0.00      Ison C  
+HETATM    8  C8          0      -0.450 -28.718  16.157  1.00  0.00      Ison C  
+HETATM    9  O1          0      -1.372 -29.552  16.220  1.00  0.00      Ison O  
+HETATM   10  N2          0       0.702 -28.923  15.394  1.00  0.00      Ison N  
+HETATM   11  H15         0       1.432 -28.226  15.294  1.00  0.00      Ison H  
+HETATM   12  N4          0       0.852 -30.091  14.669  1.00  0.00      Ison N  
+HETATM   13  H16         0       0.093 -30.711  14.948  1.00  0.00      Ison H  
+HETATM   14  H17         0       0.681 -29.856  13.694  1.00  0.00      Ison H  

@@ -1,0 +1,10 @@
+Ligand,Binding Affinity,rmsd/ub, rmsd/lb
+WT_1BVR_Cleaned_PDB_Adduct_ligand_PDB,-10.2,0.0,0.0
+WT_1BVR_Cleaned_PDB_Adduct_ligand_PDB,-10.1,5.642,3.421
+WT_1BVR_Cleaned_PDB_Adduct_ligand_PDB,-10.0,4.705,3.118
+WT_1BVR_Cleaned_PDB_Adduct_ligand_PDB,-9.8,3.106,2.119
+WT_1BVR_Cleaned_PDB_Adduct_ligand_PDB,-9.7,5.583,3.221
+WT_1BVR_Cleaned_PDB_Adduct_ligand_PDB,-9.7,2.237,1.407
+WT_1BVR_Cleaned_PDB_Adduct_ligand_PDB,-9.4,4.854,3.113
+WT_1BVR_Cleaned_PDB_Adduct_ligand_PDB,-9.4,5.901,3.521
+WT_1BVR_Cleaned_PDB_Adduct_ligand_PDB,-9.2,7.029,3.061
