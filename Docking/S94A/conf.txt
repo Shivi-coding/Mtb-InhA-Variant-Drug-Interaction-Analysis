@@ -1,0 +1,8 @@
+receptor = S94A_2IEB_Cleaned_PDB.pdbqt
+exhaustiveness  = 8
+center_x = 3.345
+center_y = -36.5279
+center_z = 17.8573
+size_x = 52.7930086899
+size_y = 45.7231620407
+size_z = 48.2300586033

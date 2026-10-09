@@ -1,0 +1,8 @@
+receptor = WT_1BVR_Cleaned_PDB.pdbqt
+exhaustiveness  = 8
+center_x = 3.3278
+center_y = -36.6426
+center_z = 17.9159
+size_x = 49.1425601387
+size_y = 46.6293471527
+size_z = 48.1210207081

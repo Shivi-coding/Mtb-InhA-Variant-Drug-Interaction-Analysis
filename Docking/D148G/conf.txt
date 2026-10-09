@@ -1,0 +1,8 @@
+receptor = D148G_4DQU_Cleaned_PDB.pdbqt
+exhaustiveness  = 8
+center_x = 3.3976
+center_y = 37.0514
+center_z = -18.1512
+size_x = 49.9020809555
+size_y = 45.7141988468
+size_z = 49.158201828
